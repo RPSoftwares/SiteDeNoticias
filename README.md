@@ -9,9 +9,9 @@
       - [ ] Logo; 
       - [ ] Área de acesso do usuário.
 	    - [ ] Carrossel com a ultimas atualizações
-	- [ ] Secções de noticias 
-	- [ ] Função para adicionar notícias (que se agrupam de forma fluida)
- 	- [ ] Pagina ver mais para cada secção
+	    - [ ] Secções de noticias 
+	    - [ ] Função para adicionar notícias (que se agrupam de forma fluida)
+	    - [ ] Pagina ver mais para cada secção
   - [ ] Criação da página de usuários
   - [ ] Pagina para criar novas noticias
 
