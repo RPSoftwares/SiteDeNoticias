@@ -3,7 +3,7 @@
 # Portal de Notícias
 ## Tarefas:
 ### Front-End:
-   [ ] Criação da home-page
+   [-] Criação da home-page
 	 [ ]Navbar:
 	  	[ ]Menu;
       [ ]Logo; 
